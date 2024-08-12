@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Test_Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|solutionrelative:Test_Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|C:\\Users\\hanis\\source\\repos\\Sikidomok2\\gtest_lite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|solutionrelative:gtest_lite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Heterogen_kollekcio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|solutionrelative:Heterogen_kollekcio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|C:\\Users\\hanis\\source\\repos\\Sikidomok2\\pont.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|solutionrelative:pont.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|solutionrelative:Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Shapes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69227621-1FE4-4E65-A2D7-355734B6BF56}|Sikidomok2.vcxproj|solutionrelative:Shapes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gtest_lite.h",
+              "DocumentMoniker": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\gtest_lite.h",
+              "RelativeDocumentMoniker": "gtest_lite.h",
+              "ToolTip": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\gtest_lite.h",
+              "RelativeToolTip": "gtest_lite.h",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T10:56:21.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Heterogen_kollekcio.h",
+              "DocumentMoniker": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Heterogen_kollekcio.h",
+              "RelativeDocumentMoniker": "Heterogen_kollekcio.h",
+              "ToolTip": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Heterogen_kollekcio.h",
+              "RelativeToolTip": "Heterogen_kollekcio.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T10:56:17.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pont.h",
+              "DocumentMoniker": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\pont.h",
+              "RelativeDocumentMoniker": "pont.h",
+              "ToolTip": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\pont.h",
+              "RelativeToolTip": "pont.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T10:56:15.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.h",
+              "DocumentMoniker": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Shape.h",
+              "RelativeDocumentMoniker": "Shape.h",
+              "ToolTip": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Shape.h",
+              "RelativeToolTip": "Shape.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T10:56:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shapes.h",
+              "DocumentMoniker": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Shapes.h",
+              "RelativeDocumentMoniker": "Shapes.h",
+              "ToolTip": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Shapes.h",
+              "RelativeToolTip": "Shapes.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T10:56:04.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test_Main.cpp",
+              "DocumentMoniker": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Test_Main.cpp",
+              "RelativeDocumentMoniker": "Test_Main.cpp",
+              "ToolTip": "C:\\Users\\hanis\\source\\repos\\Sikidomok2\\Test_Main.cpp",
+              "RelativeToolTip": "Test_Main.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T10:55:57.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

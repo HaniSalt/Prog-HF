@@ -1,0 +1,7 @@
+ID - Name - Age
+
+1 - Nagy Akos - 16
+14 - Salti Hani - 18
+13 - Kovacs Janos - 42
+9 - Kiss Attila - 43
+2 - asd asd - 2

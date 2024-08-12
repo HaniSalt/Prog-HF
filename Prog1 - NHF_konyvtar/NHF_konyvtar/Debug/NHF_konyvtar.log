@@ -1,0 +1,30 @@
+﻿  Delete and edit.c
+  Search.c
+C:\Users\hanis\source\repos\NHF_konyvtar\debugmalloc.h(341,14): warning C4018: '>': signed/unsigned mismatch
+  olvaso_info_kezeles.c
+  (compiling source file 'Delete%20and%20edit.c')
+  
+C:\Users\hanis\source\repos\NHF_konyvtar\debugmalloc.h(341,14): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'Search.c')
+  
+C:\Users\hanis\source\repos\NHF_konyvtar\debugmalloc.h(341,14): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'olvaso_info_kezeles.c')
+  
+C:\Users\hanis\source\repos\NHF_konyvtar\olvaso_info_kezeles.c(17,1): warning C4027: function declared without formal parameter list
+  Rent.c
+C:\Users\hanis\source\repos\NHF_konyvtar\debugmalloc.h(341,14): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'Rent.c')
+  
+C:\Users\hanis\source\repos\NHF_konyvtar\Rent.c(18,9): warning C4101: 'r': unreferenced local variable
+C:\Users\hanis\source\repos\NHF_konyvtar\Rent.c(122,2): warning C4013: 'view' undefined; assuming extern returning int
+  Menu.c
+C:\Users\hanis\source\repos\NHF_konyvtar\debugmalloc.h(341,14): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'Menu.c')
+  
+C:\Users\hanis\source\repos\NHF_konyvtar\Menu.c(21,8): warning C4101: 'fp': unreferenced local variable
+  View and Add book.c
+C:\Users\hanis\source\repos\NHF_konyvtar\debugmalloc.h(341,14): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'View%20and%20Add%20book.c')
+  
+  Generating Code...
+  NHF_konyvtar.vcxproj -> C:\Users\hanis\source\repos\NHF_konyvtar\Debug\NHF_konyvtar.exe

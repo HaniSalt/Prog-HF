@@ -1,0 +1,8 @@
+﻿  olvaso_info_kezeles.c
+C:\Users\hanis\source\repos\NHF_konyvtar\debugmalloc.h(341,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\hanis\source\repos\NHF_konyvtar\olvaso_info_kezeles.c(17,1): warning C4027: function declared without formal parameter list
+  Menu.c
+C:\Users\hanis\source\repos\NHF_konyvtar\debugmalloc.h(341,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\hanis\source\repos\NHF_konyvtar\Menu.c(21,8): warning C4101: 'fp': unreferenced local variable
+  Generating Code...
+  NHF_konyvtar.vcxproj -> C:\Users\hanis\source\repos\NHF_konyvtar\Debug\NHF_konyvtar.exe
